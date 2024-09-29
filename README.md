@@ -7,3 +7,5 @@ Key areas of focus include the disparities in income between veterans and non-ve
 This analysis serves as a valuable resource for policymakers, veterans’ advocacy groups, and researchers aiming to develop targeted strategies for supporting veteran communities. The repository includes fully interactive Power BI dashboards, detailed methodology documentation, and insightful conclusions drawn from the data.
 
 By leveraging cutting-edge data analytics, this project aims to contribute to a deeper understanding of the challenges faced by veterans and to support the development of effective, data-driven policy solutions.
+
+![Screenshot 2024-09-29 175828](https://github.com/user-attachments/assets/533216b6-6ee5-4b86-ad69-ff1644c26eab)
