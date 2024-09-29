@@ -8,4 +8,5 @@ This analysis serves as a valuable resource for policymakers, veterans’ advoca
 
 By leveraging cutting-edge data analytics, this project aims to contribute to a deeper understanding of the challenges faced by veterans and to support the development of effective, data-driven policy solutions.
 
-![Screenshot 2024-09-29 175828](https://github.com/user-attachments/assets/533216b6-6ee5-4b86-ad69-ff1644c26eab)
+
+![Screenshot 2024-09-29 193453](https://github.com/user-attachments/assets/8c446284-80dd-4882-badd-bcbaa737d148)
