@@ -11,3 +11,4 @@ By leveraging cutting-edge data analytics, this project aims to contribute to a 
 
 ![Screenshot 2024-09-29 193657](https://github.com/user-attachments/assets/e60718f5-3eab-40d4-822d-8dcc1bb6dc5d)
 
+Reference links: https://www.statista.com/statistics/250366/percentage-of-us-population-who-are-veterans/
